@@ -1,7 +1,7 @@
 import React, { useContext, useEffect } from "react";
 import "./App.css";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-import Home from "./Pages/Home";
+import Home from "./pages/Home";
 import Appointment from "./pages/appointment";
 import AboutUs from "./pages/AboutUs";
 import Register from "./pages/Register";
